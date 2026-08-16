@@ -96,7 +96,7 @@ pandas==2.2.1
     # via -r requirements.in
 pathvalidate==3.2.0
     # via pytablewriter
-pillow==10.3.0
+pillow==12.3.0
     # via
     #   -r requirements.in
     #   imageio
